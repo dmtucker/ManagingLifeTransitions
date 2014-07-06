@@ -1,0 +1,1 @@
+[2011-08-28 23:03] The meta revised tag in /default/doctype.php will not pass validation, and I suspect it is because of the experimental HTML 5 validator, not the markup. When HTML 5 is officially completed, this should be given some attention. For now, I have left it commented out.

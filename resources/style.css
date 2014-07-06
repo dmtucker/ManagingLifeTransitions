@@ -1,0 +1,60 @@
+@charset "UTF-8";
+
+/*defaults*/
+* {
+	border-collapse:collapse;
+}	
+body {
+	margin:0px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#000;
+}
+td {
+	padding:0px;
+	font-size:13px;
+	vertical-align:top;
+}
+h4 {
+	color:#F30;
+	font-size:16px;
+}
+p {
+	font-size:13px;
+}
+/*generic*/
+.leftcell {
+	width:246px;
+}
+.rightcell {
+	width:554px;
+}
+.navbutton {
+	height:29px;
+	width:205px;
+}
+/*standard*/
+#main {
+	margin:auto;
+	width:800px;
+}
+#banner {
+	background-image:url(/resources/images/banner.jpg);
+	height:152px;
+}
+#heading {
+	background-image:url(/resources/images/heading.png);
+	height:26px;
+}
+#content {
+	vertical-align:top;
+}
+#footing {
+	background-image:url(/resources/images/copyright.jpg);
+	height:24px;
+}
+#sitemap {
+	font-size:10px;
+	text-align:right;
+	font-weight:bold;
+}
+/*specific*/

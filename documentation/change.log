@@ -1,0 +1,6 @@
+[2011-09-01 00:00] site completed, version 0
+[2011-09-01 05:45] added type attribute to link tag for style.css in /default/doctype.php
+[2011-09-01 05:47] turned assertions off in /default/initial.php
+[2011-09-01 23:26] replaced the preload_images function in resources/extensions/custom.php with the beta preload extension in default/initial.php (assertions on during implementation)
+[2013-07-20 16:45] updated log timestamp formatting
+[2013-07-20 16:46] fixed a bug in .htaccess that wasn't redirecting index.ph to index.php as it should have
