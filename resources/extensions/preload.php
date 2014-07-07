@@ -1,8 +1,8 @@
 <?php
 
 //  author:   David Tucker
-//  reviewed: 2013-07-20
-//  modified: 2013-07-20
+//  modified: 2014-07-07
+//  modified: 2014-07-07
 //  status:   beta (debugged, untested)
 //
 //  Description
@@ -68,7 +68,7 @@ function preload_images ($pwd=FALSE)
 	$files = scandir($pwd);
 	foreach ($files as $file) if (substr($file,0,1) != '.')
 		if (is_dir($pwd.$file)) : preload_images($pwd.$file.'/');
-		else                    : ?><img src="<?php echo substr($pwd.$file,strlen($_SERVER["DOCUMENT_ROOT"])); ?>" alt="" style="display:none;" /><?php echo PHP_EOL;
+		else                    : ?><img src="<?php echo $pwd.$file; ?>" alt="" style="display:none;" /><?php echo PHP_EOL;
 		endif;
 }
 
