@@ -1,4 +1,4 @@
 ManagingLifeTransitions
 =======================
 
-Joyce Freeman, BS, CCHT
+Joyce Freeman BS, CCHT
