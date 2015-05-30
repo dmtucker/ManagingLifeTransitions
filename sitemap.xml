@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://inner-calm.net/index.php</loc>
+    <loc>http://inner-calm.net/index.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://inner-calm.net/associations.php</loc>
+    <loc>http://inner-calm.net/associations.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.2</priority>
   </url>
   <url>
-    <loc>http://inner-calm.net/classes.php</loc>
+    <loc>http://inner-calm.net/classes.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://inner-calm.net/contact.php</loc>
+    <loc>http://inner-calm.net/contact.html</loc>
     <changefreq>yearly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://inner-calm.net/joyce.php</loc>
+    <loc>http://inner-calm.net/joyce.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://inner-calm.net/sessions.php</loc>
+    <loc>http://inner-calm.net/sessions.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://inner-calm.net/testimonials.php</loc>
+    <loc>http://inner-calm.net/testimonials.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>http://inner-calm.net/therapies.php</loc>
+    <loc>http://inner-calm.net/therapies.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://inner-calm.net/words.php</loc>
+    <loc>http://inner-calm.net/words.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
