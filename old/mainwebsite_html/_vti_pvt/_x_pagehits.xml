@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usagedata>
+<month val="jan 2003" total="18">
+<item str="index.html" cnt="11" />
+<item str="ttp://61.187.156.252:8282/" cnt="3" />
+<item str="ttp://www.cj.com/" cnt="2" />
+<item str="ttp://www.yahoo.com/" cnt="1" />
+<item str="ttp://61.187.156.251:8282/" cnt="1" />
+</month>
+<month val="feb 2003" total="30">
+<item str="index.html" cnt="22" />
+<item str="ttp://www.yahoo.com/" cnt="3" />
+<item str="ttp://61.187.156.232:8282/" cnt="3" />
+<item str="ttp://61.187.156.253:8282/" cnt="1" />
+<item str="ttp://61.187.156.252:8282/" cnt="1" />
+</month>
+<month val="mar 2003" total="1">
+<item str="ttp://www.yahoo.com/" cnt="1" />
+</month>
+</usagedata>

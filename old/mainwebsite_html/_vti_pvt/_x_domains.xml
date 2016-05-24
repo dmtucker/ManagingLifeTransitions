@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usagedata>
+<month val="jan 2003" total="11">
+<item str="64.210.196.198" cnt="2" />
+<item str="216.103.209.109" cnt="2" />
+<item str="211.72.147.93" cnt="1" />
+<item str="213.252.152.12" cnt="1" />
+<item str="12.232.178.64" cnt="1" />
+<item str="12.240.106.173" cnt="1" />
+<item str="63.118.158.20" cnt="1" />
+<item str="66.150.40.70" cnt="1" />
+<item str="80.88.128.14" cnt="1" />
+</month>
+<month val="feb 2003" total="22">
+<item str="216.103.209.109" cnt="11" />
+<item str="216.39.50.149" cnt="2" />
+<item str="12.240.14.223" cnt="1" />
+<item str="12.232.206.78" cnt="1" />
+<item str="65.214.36.153" cnt="1" />
+<item str="219.240.31.60" cnt="1" />
+<item str="209.179.252.154" cnt="1" />
+<item str="63.148.99.229" cnt="1" />
+<item str="152.163.188.166" cnt="1" />
+<item str="209.179.216.219" cnt="1" />
+<item str="67.117.116.2" cnt="1" />
+</month>
+</usagedata>
